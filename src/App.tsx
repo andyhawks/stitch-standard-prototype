@@ -1,3 +1,4 @@
+import React from "react";
 import { RouterProvider, useRouter } from "./components";
 import { Header } from "./Header";
 import { Footer } from "./Footer";
